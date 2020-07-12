@@ -1,0 +1,5 @@
+1) De mporoyme na elegxoume poso megali einai i mnini. Me thn assert elegxoume an mia timi (string) einai NULL.
+2) To length einai unsigned. Den uparxei logos na ginei tetoios elegxos.
+
+Den antimetwpisa idiaiteres diskolies. Kapoies periptwseis seg fault.
+Dimitris Milathianakis 3657, Ass2 erwtisis.
